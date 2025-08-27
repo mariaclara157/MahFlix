@@ -1,12 +1,12 @@
 body {
-    background-color:#344c9c;
-    color:#626591;
+    background-color:#ce285a;
+    color:#e053ce;
     font-family: sans-serif;
 }
 
 
 header {
-    color: #ff5757;
+    color: #ff575798;
     font-size: 50px;
     font-family: "Great Vibes", serif;
 }
@@ -26,12 +26,12 @@ h2 {
     padding-top: 50px;
     text-align: center;
     font-size: 35px;
-    color: #ffffff;
+    color: #e25353;
 }
  
 .chamada {
-    color:#344c9c;
-    background: #9494cc;
+    color:#9c345c8f;
+    background: #8f8fd6;
     padding-top: 80px;
     padding-bottom: 80px;
     display: flex; /* torna flexivel = põe um do lado do outro */
@@ -53,7 +53,7 @@ img{
     padding-left: 20px;
     padding-right: 20px;
     margin-bottom: 100px;
-    background-image: linear-gradient( #9494cc, #166f40) ;
+    background-image: linear-gradient( #105879, #69d19a) ;
 }
 
 
@@ -67,7 +67,7 @@ img{
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid blueviolet;
+    border: 3px solid rgb(37, 196, 182);
 }
 
 
